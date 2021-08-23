@@ -1,0 +1,264 @@
+* {
+  padding: 0;
+  margin: 0;
+ 
+}
+
+html {
+  height: 100%;
+}
+
+html {
+  font-family:  sans-serif;
+}
+/* rgb(114,135,254)   rgb(130,88,186)
+
+rgb(59,45,159)
+
+rgb(95, 76, 194)
+
+rgb(118,76,163)  rgb(92,103,211)
+
+rgb(199, 191, 219)
+rgb(237,221,22) */
+
+
+
+
+body .second-container {
+  width: 90%;
+  height: 310px;
+  margin: 0 auto;
+  margin-top: 0;
+  margin-left:5%;
+  margin-right:5%;
+  
+  border-radius: 0.5px;
+  box-shadow: 0 10px 0px 0px rgb(59,45,159); 
+  background-color: rgb(95, 76, 194);
+  border-top-left-radius: 3px;
+  display: flex;
+  /*align-content: center; */
+
+}
+h1{
+  color: #333333; 
+  margin-top: 5%;
+}
+
+h2{
+  color: #333333; 
+  margin-top: 5%;
+  margin-bottom: 2%;
+}
+
+h6{
+  color: #ffffff; 
+  font-weight: 200;
+}
+
+p{
+  color: #333333; 
+  margin-top: 2%;
+  margin-bottom: 1%;
+  font-size: 1rem;
+}
+
+hr{
+  width:5%;
+  height: 2px;
+  background: rgb(95, 76, 194); 
+}
+
+body .card-group {
+  margin-top:0px;
+  margin-left:0px;
+  margin-right:0x;
+}
+body .card-body {
+  width: 100%;
+  height: 315px;
+  margin: 0 auto;
+  margin-top: 0;
+  padding-top: 15%;
+
+  border-radius: 0.5px;
+  
+  background-color: #F4F5F6;
+}
+
+body .card-icons {
+
+  font-size: 36px;
+  text-align: left;
+  margin: 0 auto;
+  margin-top: 0;
+  padding-top: 0%;
+  padding-left: 8%;
+  color: rgb(95, 76, 194); 
+  
+}
+
+body .card-title {
+
+  font-size: 40px;
+  font-weight: 400;
+  text-align: left;
+  margin: 0 auto;
+  margin-top: 10px;
+  padding-bottom: 5%;
+  padding-left: 8%;
+  color: rgb(95, 76, 194); 
+  
+}
+
+body .card-text {
+
+
+  text-align: left;
+  margin: 0 auto;
+  margin-top: 0;
+  padding-bottom: 5%;
+  padding-left: 8%;
+  
+  
+}
+
+
+
+body .third-container {
+ 
+  width: 90%;
+  height: 30%;
+  margin: 0 auto;
+  margin-top: 1%; 
+  margin-left:5%;
+  margin-right:5%;
+  margin-bottom: 10%;
+  padding: 1px;
+  
+  display: flex;
+  /*align-items: center;*/
+
+  
+
+}
+
+body .fourth-container {
+  
+ 
+  width: 100%;
+  padding-top: 5%;
+  padding-left: 5%;
+
+  
+
+  
+  align-items: center;
+
+}
+
+
+body .section-contact {
+  
+ 
+  width: 100%;
+
+  
+
+  display: flex;
+  /*align-items: center;*/
+
+}
+
+
+
+
+
+body .biosketch-container {
+ 
+  width: 90%;
+  height: 30%;
+  margin: 0 auto;
+  margin-top: 1%; 
+  margin-left:5%;
+  margin-right:5%;
+  margin-bottom: 1%;
+  padding: 1px;
+  
+  display: flex;
+  /*align-items: center;*/
+
+}
+
+
+body .keyword-container {
+ 
+  width: 90%;
+  height: 30%;
+  margin: 0 auto;
+  margin-top: 0; 
+  margin-left:5%;
+  margin-right:5%;
+  margin-bottom: 1%;
+  padding: 1px;
+  
+  display: flex;
+  /*align-items: center;*/
+
+}
+body .education-container {
+ 
+  width: 90%;
+  height: 30%;
+  margin: 0 auto;
+  margin-top: 0; 
+  margin-left:5%;
+  margin-right:5%;
+  margin-bottom: 5%;
+  padding: 1px;
+  
+  display: flex;
+  /*align-items: center;*/
+
+}
+
+/*worked;*/
+/*
+.tabs .tab a.active {
+  color: #333333;
+}
+*/
+
+.nav-wrapper .right a:hover {
+  color: #333333;
+}
+
+.nav-wrapper .right a:active {
+  color: rgb(95, 76, 194);
+}
+
+
+
+/*
+.tabs .tab a {
+  color: #333333;
+}
+
+*/
+
+body .card-body .card-hover {
+  margin-left:90%;
+
+  color: #F4F5F6;
+  /*display:none; */
+}
+
+body .card-body .card-hover>a:hover{
+ 
+  color: #333333;
+}
+
+body:hover .bottontoggle .btn-floating{
+  display:initial;
+}
