@@ -27,7 +27,7 @@ rgb(237,221,22) */
 
 body .second-container {
   width: 90%;
-  height: 310px;
+  height: 310px ;
   margin: 0 auto;
   margin-top: 0;
   margin-left:5%;
@@ -129,7 +129,7 @@ body .card-text {
 body .third-container {
  
   width: 90%;
-  height: 30%;
+  height: auto;
   margin: 0 auto;
   margin-top: 1%; 
   margin-left:5%;
