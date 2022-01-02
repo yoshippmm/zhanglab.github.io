@@ -4,6 +4,8 @@
  
 }
 
+
+
 html {
   height: 100%;
 }
@@ -12,13 +14,9 @@ html {
   font-family:  sans-serif;
 }
 /* rgb(114,135,254)   rgb(130,88,186)
-
 rgb(59,45,159)
-
 rgb(95, 76, 194)
-
 rgb(118,76,163)  rgb(92,103,211)
-
 rgb(199, 191, 219)
 rgb(237,221,22) */
 
@@ -188,8 +186,9 @@ body .biosketch-container {
   
   display: flex;
   /*align-items: center;*/
-
+  
 }
+
 
 
 body .keyword-container {
@@ -244,7 +243,6 @@ body .education-container {
 .tabs .tab a {
   color: #333333;
 }
-
 */
 
 body .card-body .card-hover {
